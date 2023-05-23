@@ -136,11 +136,11 @@ aside{
 }
 
 .anima-perfil{ 
-    animation: anima-perfil 0.5s ease-out;
+    animation: anima-perfil 0.8s ease-out;
 }
 
 aside * {
-    animation: anima-aside 0.5s ease-out;
+    animation: anima-aside 1s ease-out;
 }
 
 
